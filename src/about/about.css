@@ -1,0 +1,21 @@
+.about-section {
+    color: whitesmoke;
+      
+    
+}
+.about-section h1 {
+   padding-top: 30px;
+    font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+ 
+}
+.about-section p {
+    font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+ 
+ 
+}

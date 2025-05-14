@@ -1,0 +1,40 @@
+
+
+
+.skills-slider {
+      width: 100%;
+      overflow: hidden;
+        padding-top: 30px ;
+    }
+    .skills-slider h1{
+      font-size: x-large;
+      font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+    }
+.skills-track {
+  display: flex;
+  width: fit-content;
+  animation: scroll-left 15s linear infinite;
+}
+
+.skill {
+  min-width: 150px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #61dafb; /* React blue vibes */
+  white-space: nowrap;
+}
+/* Animation */
+@keyframes scroll-left {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+
+

@@ -1,0 +1,28 @@
+.projects {
+  padding: 20px 10px;
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+.projects h1 {
+      padding: 20px 10px;
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+.project-cards {
+    padding-top: 10px;
+    padding-bottom: 10px;
+     font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+.project-cards:hover {
+    background: #282c34;
+    border-radius: 10px;
+    transition: linear 0.9s;
+
+}

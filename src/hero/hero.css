@@ -1,6 +1,6 @@
 .hero-section {
 height: auto;
-padding: 30px;
+padding-top: 20px;
 }
 
 .sectionTwo {
@@ -28,6 +28,7 @@ padding: 30px;
   font-weight: 400;
   font-style: normal;
   font-size: 16px; 
+  padding-top: 10px;
 }
 .description h1, .description p {
     color: whitesmoke;

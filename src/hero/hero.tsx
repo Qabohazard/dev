@@ -14,7 +14,7 @@ export default function HeroSection() {
       
         {/* Description Section */}
         <div className=" description text-center text-white animate-fade-in-up animation-delay-500 mt-10 xl:mt-0 flex flex-col items-center xl:items-start">
-          <h1 className="   text-[30px] lg:text-[52px] max-w-3xl text-zinc-50 md:leading-tight transition-opacity duration-1000 animate-fade-in">
+          <h1 className="   text-[20px] lg:text-[52px] max-w-xl text-zinc-50 md:leading-tight transition-opacity duration-1000 animate-fade-in">
             I'm ABDO Mohammed, a  <span> software engineer</span> that rarely writes code.
           </h1>
           <p className="text-zinc-400 text-sm md:text-base xl:text-lg max-w-2xl mt-4 md:mt-8 md:leading-loose tracking-wide lg:text-xl lg:text-white transition-all duration-700 delay-500 ease-in-out">

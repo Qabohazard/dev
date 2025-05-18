@@ -3,8 +3,8 @@ import './skill.css'
 export default function skills() {
   return (
     <div className=' skills-slider '>
-      <h1 > my skill set includes </h1>
-       <div className="skills-track w-full p-8 bg-orange-500 h-auto ">
+      <h1 className='text-white' > my skill set includes </h1>
+       <div className="skills-track w-full p-8  h-auto ">
         <div className="skill">
           <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
         </div>

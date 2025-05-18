@@ -5,6 +5,7 @@
       width: 100%;
       overflow: hidden;
         padding-top: 30px ;
+        
     }
     .skills-slider h1{
       font-size: x-large;
@@ -17,6 +18,8 @@
   display: flex;
   width: fit-content;
   animation: scroll-left 15s linear infinite;
+  background-color: gray;
+  padding-top: 10px;
 }
 
 .skill {
